@@ -48,6 +48,8 @@ Currently, I’m also contributing to WordPress-based projects, handling patches
   <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="WordPress" width="40" height="40"/>
 </p>
 
+---
+
 ### 🧠 Fun Fact
 
 I love building apps that make life easier, one clean UI at a time!
