@@ -70,18 +70,6 @@ Currently, I’m also contributing to WordPress-based projects, handling patches
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chloeruthrowley&show_icons=true&theme=tokyonight" alt="Chloe's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chloeruthrowley&theme=tokyonight" alt="Chloe's Streak" />
-</p>
-
----
-
 ### 🧠 Fun Fact
 
 I love building apps that make life easier, one clean UI at a time!
